@@ -31,6 +31,17 @@ function ContributionsHandler(db) {
         // Insecure use of eval() to parse inputs
         const preTax = eval(req.body.preTax);
         const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
+        const afterTax = eval(req.body.afterTax);
         const roth = eval(req.body.roth);
 
         /*
